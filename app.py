@@ -9,8 +9,8 @@ from telegram.ext import (
 )
 from typing import Final
 
-TOKEN: Final = "6415250654:AAG_sG9j6JqmMyCyU32QxILzJIipbyrp-Dg"  # your BOT token here
-BOT_USERNAME: Final = "@techsaralk_python_bot"  # your bot username here
+TOKEN: Final = ""  # your BOT token here
+BOT_USERNAME: Final = ""  # your bot username here
 
 
 # BOT COMMANDS
